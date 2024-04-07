@@ -11,7 +11,7 @@ Tener en cuenta a estas personas:
 - _Luisa_: le gustan las cosas que sean de un material que brilla.
 - _Juan_: le gustan las cosas que, o bien son de un color que no es fuerte, o bien pesan entre 1200 y 1800 gramos.
 
-Como **colores** contemplar (al menos) rojo, verde, celeste y pardo. 
+Como **colores** contemplar (al menos) "rojo, verde", celeste y pardo. 
 De estos, los dos primeros son fuertes, los otros no.
 
 Como **materiales** tenemos: el cobre y el vidrio que brillan; el lino, la madera y el cuero que no.
